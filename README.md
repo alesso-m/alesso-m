@@ -20,6 +20,6 @@ Bay Area Air Quality Management District (Summer 2024, Meteorology & Measurement
 - Lead a team of 30+ employees, oversee payroll, hiring, and training, and ensure smooth daily operations.
 
 ⚡ Interests & Skills
-Technologies: C++, Python, Java, SQL, AWS, pandas, Flask, HTML, CSS
-Interests: Data Science/Engineering, AI/ML, Startups, Investing
-Hobbies: Weightlifting, Mountain Biking, Cooking, Sports
+- Technologies: C++, Python, Java, SQL, AWS, pandas, Flask, HTML, CSS
+- Interests: Data Science/Engineering, AI/ML, Startups, Investing
+- Hobbies: Weightlifting, Mountain Biking, Cooking, Sports
