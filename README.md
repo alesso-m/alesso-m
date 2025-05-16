@@ -1,5 +1,5 @@
 Hey, I'm Alesso Morris,
-I'm a Computer Science and Economics double major at Georgetown University, passionate about software engineering, data analytics, and entrepreneurship. I have experience coding in C++, Java, Python, SQL, and more, with coursework in Data Structures, Algorithms, Systems Programming, Computational Structures, and Programming Languages. This spring, I'll be taking Operating Systems, Deep Learning, and Sociotechnical Security.
+I'm a Computer Science and Economics double major at Georgetown University, passionate about software engineering, product management, data science, and entrepreneurship. I have experience coding in C++, Java, Python, SQL, JavaScript, TypeScript, and more, with coursework in Data Structures, Algorithms, Systems Programming, Operating Systems, Deep Learning, Computational Structures, Programming Languages, and Sociotechnical Security.
 
 ****Experience****
 
