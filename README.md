@@ -14,6 +14,7 @@ Hoya Developers:
 - Developed the front-end of an EV charging app in a 4-person team.
 
 **Internships**
+
 ZS (Summer 2025, Business Technology Solutions Associate Intern)
 - In Progress
 
