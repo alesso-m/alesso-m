@@ -8,6 +8,7 @@ I'm a Computer Science and Economics double major at Georgetown University, pass
 Forkd (Recipe Management & Social Cooking App) [Live Demo](https://www.youtube.com/watch?v=pfniRacoiQs) | [Web App](https://forkd.lovable.app):
 - Developed a full-stack mobile-first web application using React Native, Expo, TypeScript, and Supabase
 - Implemented recipe import functionality using AI to parse recipes from YouTube, TikTok, and Instagram (using their APIs)
+- Repository is private as I plan to release it, please reach out if you'd like to see anything
 - Built features including:
   - Smart recipe parsing from social media using OpenAI
   - Smart recipe tailoring for goals (vegetarian, low calorie, gluten-free, etc.)
@@ -47,3 +48,16 @@ Bay Area Air Quality Management District (Summer 2024, Meteorology & Measurement
 - Technologies: C++, Python, Java, TypeScript, JavaScript SQL, AWS, pandas, Flask, HTML, CSS
 - Interests: Data Science/Engineering, AI/ML, App Development, Startups, Investing
 - Hobbies: Weightlifting, Mountain Biking, Cooking, Sports
+
+## Let's Connect! 
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-am3245%40georgetown.edu-red?style=for-the-badge&logo=gmail)](mailto:axm3@georgetown.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alessomorris-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/alessomorris](https://www.linkedin.com/in/alesso-morris-3a4b7a26b/))
+
+</div>
+
+---
+<p align="center">
+  From San Francisco. Based in Washington, DC 🏛️ | Open to Fall/Winter/Spring internships and New Grad Opportunities 🚀
+</p>
