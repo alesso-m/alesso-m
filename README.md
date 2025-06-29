@@ -52,8 +52,8 @@ Bay Area Air Quality Management District (Summer 2024, Meteorology & Measurement
 ## Let's Connect! 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-am3245%40georgetown.edu-red?style=for-the-badge&logo=gmail)](mailto:axm3@georgetown.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alessomorris-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/alessomorris](https://www.linkedin.com/in/alesso-morris-3a4b7a26b/))
+[![Email](https://img.shields.io/badge/Email-axm3%40georgetown.edu-red?style=for-the-badge&logo=gmail)](mailto:axm3@georgetown.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alessomorris-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alesso-morris-3a4b7a26b/)
 
 </div>
 
