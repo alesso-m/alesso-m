@@ -5,6 +5,23 @@ I'm a Computer Science and Economics double major at Georgetown University, pass
 
 **Tech & Startups**
 
+Forkd (Recipe Management & Social Cooking App) [Live Demo](https://www.youtube.com/watch?v=pfniRacoiQs) | [Web App](https://forkd.lovable.app):
+- Developed a full-stack mobile-first web application using React Native, Expo, TypeScript, and Supabase
+- Implemented recipe import functionality using AI to parse recipes from YouTube, TikTok, and Instagram (using their APIs)
+- Built features including:
+  - Smart recipe parsing from social media using OpenAI
+  - Smart recipe tailoring for goals (vegetarian, low calorie, gluten-free, etc.)
+  - Smart ingredient swap suggestions during pantry check
+  - Grocery list management
+  - Meal planning calendar
+  - Interactive cooking mode with step-by-step instructions
+  - Everything syncs to Supabase if you're logged in
+- Utilized modern development practices including:
+  - Local-first architecture with SQLite and cloud sync
+  - Offline-first capabilities with background synchronization
+  - Type-safe database operations with PostgreSQL and Supabase
+  - CI/CD pipeline with GitHub Actions and EAS
+
 Georgetown Ventures (Tech Division):
 - InPress (News-Based Dating App): Analyzed user onboarding data and matchless user behavior using Python, SQL, and MySQL to uncover insights.
 - InfinityOne AI (Generative Conversational AI Platform): Built features using Streamlit, Python, Django, and OpenAI frameworks for job, housing, and event listings.
