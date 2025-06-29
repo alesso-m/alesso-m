@@ -8,6 +8,7 @@ I'm a Computer Science and Economics double major at Georgetown University, pass
 Forkd (Recipe Management & Social Cooking App) [Live Demo](https://www.youtube.com/watch?v=pfniRacoiQs) | [Web App](https://forkd.lovable.app):
 - Developed a full-stack mobile-first web application using React Native, Expo, TypeScript, and Supabase
 - Implemented recipe import functionality using AI to parse recipes from YouTube, TikTok, and Instagram (using their APIs)
+- Planning to launch very soon
 - Repository is private as I plan to release it, please reach out if you'd like to see anything
 - Built features including:
   - Smart recipe parsing from social media using OpenAI
